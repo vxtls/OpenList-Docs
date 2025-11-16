@@ -20,11 +20,6 @@ Mount [Doubao Drive](https://www.doubao.com/drive/) cloud storage.
 
 :::
 
-## Root folder path { lang="en" }
-
-::: en
-The root path to mount; leave the field blank or set `/` to expose the entire drive, or specify a subfolder path if you only need part of the storage.
-:::
 
 ## Root folder ID { lang="en" }
 
